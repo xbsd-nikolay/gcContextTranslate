@@ -1,0 +1,11 @@
+{
+	"name": "Context Google Translate",
+	"version": "0.0.1",
+
+	"background page": "back.html",
+	"requrements":[
+		"tabs",
+		"contextMenus",
+		"background"
+	]
+}
