@@ -1,11 +1,14 @@
 {
 	"name": "Context Google Translate",
-	"version": "0.0.1",
+	"version": "0.0.2",
 
-	"background page": "back.html",
-	"requrements":[
+	"background_page": "back.html",
+	"permissions": [
 		"tabs",
 		"contextMenus",
 		"background"
-	]
+	],
+	"icons": {
+		"16": "icon.png" 
+	}
 }
